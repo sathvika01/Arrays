@@ -1,5 +1,6 @@
 # TWO POINTERS
 # Used for Sorted Arrays, Pairs / removing duplicates
+# searching / comparing from both ends
 
 #1. Two Sum II (Sorted Array)
 #👉 Problem:
