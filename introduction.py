@@ -61,3 +61,16 @@ def binary_search(arr, target):
     return -1
 
 result2 = print(binary_search(arr,50))
+
+# 5.Sorting 
+arr.sort()        # ascending
+arr.sort(reverse=True)
+
+# OR
+sorted_arr = sorted(arr)
+
+# 6.Reverse Array
+arr.reverse()
+
+# OR
+arr = arr[::-1]
